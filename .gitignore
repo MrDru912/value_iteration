@@ -1,0 +1,7 @@
+.idea
+*.zip
+main_kernel.py
+main0.py
+main2.py
+*ipynb
+output

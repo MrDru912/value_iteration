@@ -1,0 +1,26 @@
+25 25 -1 -10 1000 0.999 1e-6
+#########################
+#                  DDDDD#
+#DDDDDDDDDDDDDDDDD DDDDD#
+#D         DDDDDDD DDDDD#
+#D         DDDDDDD DDDDD#
+#D         DDDDDDD DDDDD#
+#D         DDDDDDD DDDDD#
+#D         DDDDDDD DDDDD#
+#DDDDDDDDDDDDDDDDD DDDDD#
+#DDDDDDD      DDDD DDDDD#
+#DDDDDDD      DDDD DDDDD#
+#DDDDDDD      DDDD DDDDD#
+#DDDDDDD      DDDD DDDDD#
+#DDDDDDD      DDDD DDDDD#
+#DDDDDDDDDDDDDDDDD DDDDD#
+#D        DDDDDDDD DDDDD#
+#D        DDDDDDDD DDDDD#
+#D        DDD    D D    #
+#D        DDD    D D    #
+#D        DDD    D D    #
+#DDDDDDDDDDDDDDDDD D    #
+#DD                D    #
+#D  DDDDDDDDDDDDDDDDDDDD#
+#DD                    G#
+#########################
